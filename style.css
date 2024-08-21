@@ -1,0 +1,131 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: red;
+}
+button{
+    width: Hug (189px)px;
+height: Hug (47px)px;
+padding: 12px 24px 12px 24px;
+border-radius: 8px 8px 8px 8px;
+border: 2px 0px 0px 0px;
+background-color: white;
+border: 2px solid #DE2E54;
+color: #DE2E54;
+}
+
+.left{
+    color: white; 
+}
+
+.btn2{
+    background: #DE2E54CC;
+    color: white;
+}
+
+h1{
+    width: 500px;
+    height: 82.29px;
+}
+
+.box{
+    width: 1440px;
+    height: 533px;
+    background-image: url('./image\ 4\ \(6\).png');
+    justify-content: space-around;
+    display: flex;
+}
+
+.left{
+    margin-top: 150px;
+}
+
+.sob{
+    margin-top: 50px;
+}
+
+.card{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+p{
+    width: 600px;
+    height: 96px;
+}
+
+h2{
+    text-align: center;
+}
+
+.oxirgi{
+    background: #0EB4C1;
+}
+
+footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+}
+
+a{
+    color: rgb(0, 0, 0);
+}
+
+form{
+    display: flex;
+}
+
+.form-container{
+    flex: 1;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    color: #333;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+form label{
+    display: block;
+    margin-bottom: 5px;
+}
+
+form input{
+    width: 100% - 20px;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+form button{
+    padding: 10px 20px;
+    background-color: #00b3b3;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.a2{
+    color: white;
+}
+
+.a3{
+    color: white;
+}
+
+.a4{
+    color: white;
+}
